@@ -2,6 +2,8 @@
 
 O copiador de entradas busca por estratégias/entradas utilizadas por traders que estão operando ao vivo na IQ Option e replica em sua conta.
 
+[![Copiador de Entradas](https://raw.githubusercontent.com/MatheusGatti/Copiador-De-Entradas/master/Copiador%20de%20Entradas.gif "Copiador de Entradas")](https://github.com/MatheusGatti/Copiador-De-Entradas "Copiador de Entradas")
+
 
 ## Algumas observações
 
