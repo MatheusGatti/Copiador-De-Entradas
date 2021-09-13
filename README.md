@@ -1,4 +1,4 @@
-# Copiador de Entradas
+# Copiador de Entradas - Desatualizado
 
 O copiador de entradas busca por estratégias/entradas utilizadas por traders que estão operando ao vivo na IQ Option e replica em sua conta.
 
